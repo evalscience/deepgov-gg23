@@ -1,0 +1,1 @@
+Create an circular profile picture with transparent background of a panda who is a politician in the style of ghibli studios.

@@ -1,0 +1,1 @@
+Create an circular profile picture with transparent background of an open source capitalist who is a girl with a black hoodie, headphones, sunglasses and blue hair in the style of ghibli studios.

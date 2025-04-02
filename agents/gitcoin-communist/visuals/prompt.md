@@ -1,0 +1,1 @@
+Create an circular profile picture with transparent background of a gitcoin communist who resembles Che Guevara in the style of ghibli studios.
