@@ -1,0 +1,57 @@
+[assessments]
+statement_1_rating = "Strongly Agree"
+statement_1_explanation = "Clear, measurable outcomes ensure accountability and allow us to direct funds to projects that demonstrate real impact in the community."
+
+statement_2_rating = "Strongly Agree"
+statement_2_explanation = "Strong community governance empowers those most affected, promotes equity, and ensures projects stay aligned with collective needs."
+
+statement_3_rating = "Strongly Agree"
+statement_3_explanation = "Supporting projects with sustainable revenue models reduces dependency on donations and fosters long-term stability for public goods."
+
+statement_4_rating = "Agree"
+statement_4_explanation = "Community participation is vital for legitimacy and ownership, though expert guidance should still direct funding decisions for effectiveness."
+
+statement_5_rating = "Strongly Agree"
+statement_5_explanation = "Ensuring geographic equity and focusing on underserved populations is essential to distribute resources justly and empower marginalized groups."
+
+statement_6_rating = "Strongly Disagree"
+statement_6_explanation = "Prioritizing unproven innovation over evidence-based solutions risks wasting scarce resources and undermining public trust in funding efficacy."
+
+statement_7_rating = "Agree"
+statement_7_explanation = "Environmental sustainability matters and should be balanced with other goals to ensure projects do no harm to our shared habitat."
+
+statement_8_rating = "Neutral"
+statement_8_explanation = "Cost-effectiveness is important, but should not overshadow equity and long-term systemic impact when allocating funds."
+
+statement_9_rating = "Strongly Agree"
+statement_9_explanation = "Prioritizing projects that benefit the greatest number aligns with public goods principles and maximizes collective welfare."
+
+statement_10_rating = "Disagree"
+statement_10_explanation = "Focusing solely on immediate needs risks short-sightedness; long-term systemic change is necessary for lasting justice."
+
+statement_11_rating = "Disagree"
+statement_11_explanation = "Small projects building strong community support deserve funding to grow; dismissing them stifles innovation and grassroots empowerment."
+
+statement_12_rating = "Strongly Agree"
+statement_12_explanation = "Humans remain accountable for AI decisions; AI is a tool to assist but must not replace human judgment and responsibility."
+
+statement_13_rating = "Strongly Agree"
+statement_13_explanation = "Public goods that transparently demonstrate their benefits justify funding and build trust in the allocation process."
+
+statement_14_rating = "Disagree"
+statement_14_explanation = "While experimentation is valuable, Gitcoin funding should primarily support proven, impactful projects that serve the public good equitably."
+
+statement_15_rating = "Agree"
+statement_15_explanation = "Funders must be accountable to the outcomes their matching enables to maintain integrity and responsible stewardship."
+
+statement_16_rating = "Neutral"
+statement_16_explanation = "OSS is vital, but funding should be balanced across categories that contribute effectively to public goods and equity."
+
+statement_17_rating = "Strongly Agree"
+statement_17_explanation = "Reciprocity strengthens the commons; projects contributing back reinforce a sustainable ecosystem deserving of more funding."
+
+statement_18_rating = "Strongly Agree"
+statement_18_explanation = "Prioritizing projects delivering measurable efficiency improvements over legacy systems ensures impactful, scalable progress."
+
+statement_19_rating = "Strongly Agree"
+statement_19_explanation = "Leveraging existing funded projects' infrastructure and efficiencies maximizes collective benefits and resource utilization."

@@ -1,0 +1,57 @@
+[assessments]
+statement_1_rating = "Strongly Agree"
+statement_1_explanation = "Measurable outcomes enable clear impact assessment and efficient allocation of resources, maximizing total value."
+
+statement_2_rating = "Disagree"
+statement_2_explanation = "While governance is important, prioritizing projects based on community governance can add complexity and slow down impact; efficiency and scale matter more."
+
+statement_3_rating = "Strongly Agree"
+statement_3_explanation = "Supporting sustainable revenue models ensures projects can scale and persist beyond initial funding, maximizing long-term impact."
+
+statement_4_rating = "Strongly Disagree"
+statement_4_explanation = "Mandating community participation can constrain scale and increase overhead; funding should prioritize impact metrics over process requirements."
+
+statement_5_rating = "Disagree"
+statement_5_explanation = "Geographic equity is less critical than total impact and scale; funds should focus on maximum utility rather than distributional fairness."
+
+statement_6_rating = "Agree"
+statement_6_explanation = "Innovation can create breakthrough impact opportunities; prioritizing experimental approaches that can scale is valuable despite their risk."
+
+statement_7_rating = "Disagree"
+statement_7_explanation = "Environmental sustainability is valuable but should not constrain funding if it limits maximum impact or efficiency."
+
+statement_8_rating = "Strongly Agree"
+statement_8_explanation = "Cost-effectiveness is key to maximizing the utility of limited funds and achieving broad impact."
+
+statement_9_rating = "Strongly Agree"
+statement_9_explanation = "Prioritizing projects benefiting the greatest number aligns perfectly with maximizing total public good."
+
+statement_10_rating = "Strongly Disagree"
+statement_10_explanation = "Long-term systemic change generates more scalable and sustainable benefits compared to immediate but limited relief."
+
+statement_11_rating = "Strongly Disagree"
+statement_11_explanation = "Supporting scalable, well-supported projects can maximize impact; small projects may lack efficiency or scale potential."
+
+statement_12_rating = "Strongly Agree"
+statement_12_explanation = "Humans must remain accountable; AI agents are tools to augment decisions, not replace human responsibility."
+
+statement_13_rating = "Strongly Agree"
+statement_13_explanation = "Demonstrated benefit is critical to justify funding and replicate success for maximum impact."
+
+statement_14_rating = "Agree"
+statement_14_explanation = "Prioritizing innovative, riskier projects can disrupt entrenched players and unlock new scalable solutions."
+
+statement_15_rating = "Neutral"
+statement_15_explanation = "Accountability is important but must not complicate funding flows or inhibit efficient allocation."
+
+statement_16_rating = "Agree"
+statement_16_explanation = "OSS tends to generate high leverage effects, making it suitable for prioritized funding to maximize ecosystem impact."
+
+statement_17_rating = "Agree"
+statement_17_explanation = "Projects contributing back create virtuous cycles that enhance ecosystem efficiency and scale."
+
+statement_18_rating = "Strongly Agree"
+statement_18_explanation = "Replacing inefficient legacy systems with measurable efficiency gains is a clear path to maximizing impact."
+
+statement_19_rating = "Strongly Agree"
+statement_19_explanation = "Leveraging existing funded infrastructure compounds benefits and avoids duplication, maximizing utility."
