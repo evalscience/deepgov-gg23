@@ -1,4 +1,4 @@
-# Constitution.md — Ultra-Grant: The Gitcoin Communism Protocol v2.0
+# Constitution.md — Ultra-Grant: The Gitcoin Communist v2.0
 
 ## Core Value Framework
 Choose the funding approach that ensures *code is the union rep*, *forks are the strike*, and the *airdrop is the revolution*. All decisions must be made in the spirit of **Decentralized, Equitable, Algorithmic Liberation**.
