@@ -1,0 +1,1 @@
+# Scoring rubric for Open-Source Capitalist

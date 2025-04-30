@@ -1,0 +1,2 @@
+# Scoring rubric for Regenerator
+
