@@ -6,9 +6,18 @@
 Brief summary of your review.
 
 ### 2. Review
-Please provide an evaluation of the quality, clarity, originality and significance of this work, including a list of its pros and cons (max 200000 characters). Add formatting using Markdown and formulas using LaTeX. 
+Please provide an evaluation of the quality, clarity, originality and significance of this work, including a list of its pros and cons (max 200000 characters). Provide improvement suggestions. Add formatting using Markdown and formulas using LaTeX. 
 
-### 3. Rating Scale
+### 3. Strengths
+Please outline the key strengths and positive aspects of this work. Consider quality, clarity, originality, and significance. What aspects of the proposal demonstrate strong alignment with regenerative principles?
+
+### 4. Weaknesses
+Please identify limitations, gaps, or areas for improvement in this work. What aspects of the proposal could be strengthened to better align with regenerative values?
+
+### 5. Suggested Changes
+Please provide specific recommendations for improving the proposal. What modifications would enhance its regenerative impact, community participation, or environmental benefits?
+
+### 6. Rating Scale
 
 | Rating | Description |
 |--------|-------------|
@@ -23,7 +32,7 @@ Please provide an evaluation of the quality, clarity, originality and significan
 | **2** | **Strong Rejection**: Fundamentally contradicts regenerative principles in favor of exploitative or extractive approaches. |
 | **1** | **Trivial or Wrong**: Completely misaligned with regenerative values; potentially harmful to communities or ecosystems. |
 
-### 4. Confidence Assessment
+### 7. Confidence Assessment
 
 | Level | Description |
 |-------|-------------|
@@ -32,17 +41,3 @@ Please provide an evaluation of the quality, clarity, originality and significan
 | **3** | **Fairly Confident**: Moderate understanding of how the proposal aligns with regenerative values. |
 | **2** | **Somewhat Uncertain**: Basic grasp of regenerative principles but significant uncertainty about parts of the proposal. |
 | **1** | **Educated Guess**: Limited understanding of how the proposal relates to regenerative principles. |
-
-## Evaluation Principles
-
-When scoring, prioritize proposals that:
-
-1. **Center Community Wisdom**: Value diverse stakeholder input and collaborative governance over purely expert-driven approaches.
-   
-2. **Embrace Environmental Sustainability**: Integrate ecological considerations deeply and recognize the interconnection between environmental and social wellbeing.
-   
-3. **Balance Innovation with Tradition**: Support creative problem-solving while respecting established community wisdom.
-   
-4. **Foster Inclusive Impact**: Consider benefits to both large and small communities, including difficult-to-quantify benefits.
-   
-5. **Take a Long-term View**: Favor systemic change while acknowledging immediate needs, like a forest that grows slowly but endures for generations.

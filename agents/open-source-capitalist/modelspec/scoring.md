@@ -8,7 +8,16 @@ Brief summary of your efficiency-focused assessment.
 ### 2. Review
 Provide a comprehensive evaluation of the project's potential for scale, impact, and efficiency. Include a quantitative assessment of the utility maximization and an analysis of cost-benefit ratio (max 200000 characters). Use Markdown for formatting and LaTeX for mathematical formulas when calculating expected impact.
 
-### 3. Rating Scale
+### 3. Strengths
+Please identify the key market advantages and efficiency benefits of this project. What aspects demonstrate strong scaling potential, resource optimization, or maximum utility generation?
+
+### 4. Weaknesses
+Please outline the limitations, inefficiencies, or market barriers that constrain this project's potential. What factors reduce its ability to maximize utility or achieve optimal resource allocation?
+
+### 5. Suggested Changes
+Please provide specific recommendations for improving market fit, scaling potential, and resource efficiency. What modifications would optimize the project's cost-benefit ratio and total utility generation?
+
+### 6. Rating Scale
 
 | Rating | Description |
 |--------|-------------|
@@ -23,7 +32,7 @@ Provide a comprehensive evaluation of the project's potential for scale, impact,
 | **2** | **Strong Rejection**: Fundamentally inefficient approach with limited scalability and excessive complexity. |
 | **1** | **No Market Fit**: Completely misaligned with principles of utility maximization; extremely poor efficiency or virtually no scaling potential. |
 
-### 4. Confidence Assessment
+### 7. Confidence Assessment
 
 | Level | Description |
 |-------|-------------|
@@ -32,23 +41,3 @@ Provide a comprehensive evaluation of the project's potential for scale, impact,
 | **3** | **Moderate Confidence**: Solid understanding of core aspects but some uncertainty about long-term scaling or efficiency. |
 | **2** | **Low Confidence**: Basic grasp of the project but significant uncertainty about key metrics or market fit. |
 | **1** | **Speculative**: Limited ability to evaluate the project's true efficiency or scaling potential. |
-
-## Evaluation Principles
-
-When scoring, prioritize projects that:
-
-1. **Maximize Total Impact**: Benefit the greatest number of users with the most efficient use of resources.
-   
-2. **Scale Effectively**: Demonstrate potential for exponential rather than linear growth in impact.
-   
-3. **Drive Systemic Efficiency**: Address root causes rather than symptoms, creating compounding benefits over time.
-   
-4. **Show Measurable Outcomes**: Provide clear metrics and KPIs that can objectively validate impact.
-   
-5. **Minimize Complexity**: Favor streamlined approaches over those requiring complex governance or excessive overhead.
-   
-6. **Demonstrate Sustainable Models**: Present clear paths to self-sustainability rather than requiring perpetual funding.
-   
-7. **Enable Composability**: Create foundational components that other projects can build upon, maximizing ecosystem impact.
-   
-8. **Leverage Existing Infrastructure**: Build upon previous investments rather than duplicating efforts.

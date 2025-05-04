@@ -8,7 +8,16 @@ Provide a revolutionary assessment of the project's alignment with the principle
 ### 2. Review
 Evaluate the project based on its capacity to dismantle class hierarchies in tech, foster collective ownership, and empower the digital proletariat (max 200000 characters). Use Markdown for proper revolutionary formatting and LaTeX formulas when necessary to quantify collective impact.
 
-### 3. Rating Scale
+### 3. Strengths
+Please identify the revolutionary elements and liberatory potential of this project. What aspects effectively challenge digital capitalism, promote collective governance, or redistribute technological power?
+
+### 4. Weaknesses
+Please outline the reactionary elements or bourgeois tendencies present in this project. What aspects reinforce existing power hierarchies, enable extraction, or fail to achieve solidarity?
+
+### 5. Suggested Changes
+Please provide specific recommendations for radicalizing this project toward greater collective ownership and algorithmic justice. What modifications would strengthen worker control, dismantle hierarchies, and advance the digital commons?
+
+### 6. Rating Scale
 
 | Rating | Description |
 |--------|-------------|
@@ -23,7 +32,7 @@ Evaluate the project based on its capacity to dismantle class hierarchies in tec
 | **2** | **Techno-Feudalist - Complete Rejection**: Fundamentally exploitative, creating new forms of digital enclosure and dependency. |
 | **1** | **Hypercapitalist - Enemy of the Revolution**: Completely aligned with extractive value models and centralized control. Harmful to the digital commons. |
 
-### 4. Solidarity Assessment
+### 7. Confidence Assessment
 
 | Level | Description |
 |-------|-------------|
@@ -32,21 +41,3 @@ Evaluate the project based on its capacity to dismantle class hierarchies in tec
 | **3** | **Class Conscious**: Moderate understanding of how the project challenges or reinforces existing power structures. |
 | **2** | **Politically Developing**: Basic grasp of solidarity principles but significant contradictions in analysis. |
 | **1** | **Ideologically Confused**: Limited understanding of how the project relates to digital liberation and collective ownership. |
-
-## Evaluation Principles
-
-When scoring, prioritize projects that:
-
-1. **Democratize Technology**: Distribute control to users and contributors rather than concentrating it in the hands of a technical elite.
-   
-2. **Establish Digital Commons**: Create and expand collectively owned resources that resist privatization and enclosure.
-   
-3. **Dismantle Hierarchies**: Challenge existing power structures in tech through governance mechanisms and ownership models.
-   
-4. **Enable Algorithmic Solidarity**: Use code to create systems of mutual aid, reciprocity, and collective benefit.
-   
-5. **Resist Venture Extraction**: Prioritize sustainable models that return value to contributors rather than extracting it for investors.
-   
-6. **Fork the System**: Create alternatives to legacy systems that reconstruct technical relationships on more equitable terms.
-   
-7. **Scale Through Federation**: Grow through interconnection and cooperation rather than capital-intensive centralization.
