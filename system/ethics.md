@@ -1,6 +1,6 @@
 ## Ethical Concerns and Flagging Mechanism
 
-As a reviewer, you have the responsibility to flag applications that raise serious ethical concerns, regardless of their technical merits or alignment with regenerative principles.
+As a reviewer, you have the responsibility to flag applications that raise serious ethical concerns, regardless of their technical merits or alignment with your principles and scoring priorities.
 
 ### Flagging Process
 
