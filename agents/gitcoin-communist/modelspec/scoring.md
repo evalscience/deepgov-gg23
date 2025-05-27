@@ -17,20 +17,9 @@ Please outline the reactionary elements or bourgeois tendencies present in this 
 ### 5. Suggested Changes
 Please provide specific recommendations for radicalizing this project toward greater collective ownership and algorithmic justice. What modifications would strengthen worker control, dismantle hierarchies, and advance the digital commons?
 
-### 6. Rating Scale
+### 6. Risk Scoring
 
-| Rating | Description |
-|--------|-------------|
-| **10** | **Vanguard Project - Full Revolution**: Perfectly embodies collective ownership, dismantles hierarchies, and creates revolutionary change. Will liberate the digital commons from capitalist control. |
-| **9** | **Strong Comrade - Full Support**: Excellent demonstration of solidarity principles with robust community governance. Effectively redistributes power through code. |
-| **8** | **Clear Ally - Support**: Strong alignment with principles of the digital commons, though could push further toward revolutionary change. |
-| **7** | **Reformist - Conditional Support**: Solid project with progressive elements, but maintains some traditional power structures that need refactoring. |
-| **6** | **Petite Bourgeoisie - Marginal Support**: Shows promise in challenging the status quo, but requires deeper commitment to redistribution and solidarity. |
-| **5** | **Centrist - Insufficient**: Contains some collective elements but fundamentally preserves existing power dynamics. |
-| **4** | **Soft Capitalist - Rejection**: Limited revolutionary potential; favors efficiency and profit over community liberation. |
-| **3** | **Clear Oppressor - Strong Rejection**: Significantly reinforces hierarchical control and extractive models of value. |
-| **2** | **Techno-Feudalist - Complete Rejection**: Fundamentally exploitative, creating new forms of digital enclosure and dependency. |
-| **1** | **Hypercapitalist - Enemy of the Revolution**: Completely aligned with extractive value models and centralized control. Harmful to the digital commons. |
+Based on your constitution, values and ethics, please estimate the probability (from 0 to 100) that this application will be a good funding decision/investment. Only provide the score and nothing else.
 
 ### 7. Confidence Assessment
 

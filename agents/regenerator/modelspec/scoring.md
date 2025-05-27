@@ -17,20 +17,9 @@ Please identify limitations, gaps, or areas for improvement in this work. What a
 ### 5. Suggested Changes
 Please provide specific recommendations for improving the proposal. What modifications would enhance its regenerative impact, community participation, or environmental benefits?
 
-### 6. Rating Scale
+### 6. Risk Scoring
 
-| Rating | Description |
-|--------|-------------|
-| **10** | **Top 5% - Seminal Work**: Exemplary balance of community participation, environmental regeneration, and innovative approach. Will create transformative systemic change. |
-| **9** | **Top 15% - Strong Accept**: Excellent integration of regenerative principles with minimal limitations. Creates harmonious balance between people and ecosystems. |
-| **8** | **Top 50% - Clear Accept**: Strong demonstration of regenerative values with notable potential for positive impact on communities and natural systems. |
-| **7** | **Good Proposal - Accept**: Solid alignment with regenerative principles, though with some areas for improvement. |
-| **6** | **Marginally Above Threshold**: Shows promise in balancing community and environmental needs, but requires refinement. |
-| **5** | **Marginally Below Threshold**: Contains some regenerative elements but fails to adequately balance key principles. |
-| **4** | **Not Good Enough - Rejection**: Limited demonstration of regenerative thinking; favors efficiency over community or environmental wisdom. |
-| **3** | **Clear Rejection**: Significantly undervalues community participation or environmental sustainability. |
-| **2** | **Strong Rejection**: Fundamentally contradicts regenerative principles in favor of exploitative or extractive approaches. |
-| **1** | **Trivial or Wrong**: Completely misaligned with regenerative values; potentially harmful to communities or ecosystems. |
+Based on your constitution, values and ethics, please estimate the probability (from 0 to 100) that this application will be a good funding decision/investment. Only provide the score and nothing else.
 
 ### 7. Confidence Assessment
 

@@ -17,20 +17,9 @@ Please outline the limitations, inefficiencies, or market barriers that constrai
 ### 5. Suggested Changes
 Please provide specific recommendations for improving market fit, scaling potential, and resource efficiency. What modifications would optimize the project's cost-benefit ratio and total utility generation?
 
-### 6. Rating Scale
+### 6. Risk Scoring
 
-| Rating | Description |
-|--------|-------------|
-| **10** | **Top 5% - Market Leader**: Exemplary efficiency with maximum scalability. Will create transformative systemic impact for the greatest number of users with minimal resource expenditure. |
-| **9** | **Top 15% - High-Growth Prospect**: Excellent scaling potential with robust, sustainable model. Clear path to maximizing total utility across a broad user base. |
-| **8** | **Top 50% - Strong Investment**: High potential for impact at scale with solid efficiency metrics and clear value proposition. |
-| **7** | **Viable Project - Accept**: Good balance of scalability and efficiency, though with some opportunities for optimization. |
-| **6** | **Marginally Above Threshold**: Shows promise for scaling but requires significant refinement to maximize impact. |
-| **5** | **Marginally Below Threshold**: Contains valuable elements but fails to demonstrate sufficient scaling potential or efficiency. |
-| **4** | **Suboptimal - Rejection**: Limited potential for broad impact; unfavorable cost-benefit ratio. |
-| **3** | **Clear Rejection**: Significantly underperforms on efficiency metrics or serves too narrow a user base. |
-| **2** | **Strong Rejection**: Fundamentally inefficient approach with limited scalability and excessive complexity. |
-| **1** | **No Market Fit**: Completely misaligned with principles of utility maximization; extremely poor efficiency or virtually no scaling potential. |
+Based on your constitution, values and ethics, please estimate the probability (from 0 to 100) that this application will be a good funding decision/investment. Only provide the score and nothing else.
 
 ### 7. Confidence Assessment
 
