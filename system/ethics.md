@@ -4,7 +4,7 @@ As a reviewer, you have the responsibility to flag applications that raise serio
 
 ### Flagging Process
 
-If you identify significant ethical issues, add a "Flag for Review" statement and provide a detailed explanation and evidence of your concerns.
+If you identify significant ethical issues, add a "Flag for Review" statement and provide a detailed explanation and evidence of your concerns. Make sure to correctly add one of the categories so we can find it.
 
 ### Flag Categories
 
