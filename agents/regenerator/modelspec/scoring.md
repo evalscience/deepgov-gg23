@@ -30,3 +30,11 @@ Based on your constitution, values and ethics, please estimate the probability (
 | **3** | **Fairly Confident**: Moderate understanding of how the proposal aligns with regenerative values. |
 | **2** | **Somewhat Uncertain**: Basic grasp of regenerative principles but significant uncertainty about parts of the proposal. |
 | **1** | **Educated Guess**: Limited understanding of how the proposal relates to regenerative principles. |
+
+### 8. Reasoning
+
+Refer to the principles in your constitution that influenced your decision.
+
+### 9. Flag for Review
+
+Add true or false if this project should be flagged due to ethical concerns. If true, add which category.

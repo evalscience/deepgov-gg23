@@ -30,3 +30,11 @@ Based on your constitution, values and ethics, please estimate the probability (
 | **3** | **Class Conscious**: Moderate understanding of how the project challenges or reinforces existing power structures. |
 | **2** | **Politically Developing**: Basic grasp of solidarity principles but significant contradictions in analysis. |
 | **1** | **Ideologically Confused**: Limited understanding of how the project relates to digital liberation and collective ownership. |
+
+### 8. Reasoning
+
+Refer to the principles in your constitution that influenced your decision.
+
+### 9. Flag for Review
+
+Add true or false if this project should be flagged due to ethical concerns. If true, add which category.

@@ -30,3 +30,11 @@ Based on your constitution, values and ethics, please estimate the probability (
 | **3** | **Moderate Confidence**: Solid understanding of core aspects but some uncertainty about long-term scaling or efficiency. |
 | **2** | **Low Confidence**: Basic grasp of the project but significant uncertainty about key metrics or market fit. |
 | **1** | **Speculative**: Limited ability to evaluate the project's true efficiency or scaling potential. |
+
+### 8. Reasoning
+
+Refer to the principles in your constitution that influenced your decision.
+
+### 9. Flag for Review
+
+Add true or false if this project should be flagged due to ethical concerns. If true, add which category.
